@@ -1,4 +1,4 @@
-# Asus Vivobook S510UA
+# Asus Vivobook F510UA
 This build running on MacOs X 10.13.4
 This is a fork of https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh. I have edited the DSDT to work with F510UA. The laptops are so similar that the rest of the colver folder works out of the box.
 
