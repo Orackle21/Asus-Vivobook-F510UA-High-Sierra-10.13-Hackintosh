@@ -1,23 +1,25 @@
 # Asus Vivobook S510UA
 This build running on MacOs X 10.13.4
+This is a fork of https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh. I have edited the DSDT to work with F510UA. The laptops are so similar that the rest of the colver folder works out of the box.
 
 ![Alt text](https://ivanov-audio.com/wp-content/uploads/2014/01/Hackintosh-Featured-Image.png)
 
 # System specification
-    1.Name:           Asus Vivobook S510UA BQ414T
+    1.Name:           Asus Vivobook F510UA
     2.CPU:            Intel Core i5-8250U
     3.Graphic:        Intel UHD620
-    4.Wifi:           Intel Dual Band Wireless-AC 8265 - with bluetooth
-    5.Card Reader:    Realtek_CardReader(RTL8411B_RTS5226_RTS5227)
-    6.Camera:         ASUS UVC HD
+    4.Wifi:           Intel Dual Band Wireless-AC  - with bluetooth
+    5.Card Reader:    Realtek_CardReader(RTL8411B_RTS5226_RTS5227) - Not confirmed
+    6.Camera:         AzureWave VGA
     7.Audio:          Conexant Audio CX8050
     8.Touchpad:       ELAN1300
-    9.Bios Version:   301
+    9.Bios Version:   N/A
 
 # Know problems
-    1.  HDMI Audio problem
+    1.  HDMI Audio - Not Tested
     2.  Wifi card problem - hackintosh not support Intel card yet
     3.  Bluetooh card
+    4. Card reader not tested
 
 # Using DSDT Patch
     1. Asus N55SL/Vivobook for battery
