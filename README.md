@@ -15,6 +15,14 @@ This is a fork of https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-
     8.Touchpad:       ELAN1300
     9.Bios Version:   N/A
 
+# Tested working
+    1. Video UHD620 with hardware acceleration
+    2. Audio Speakers
+    3. Sleep and wake
+    4. Trackpad - including 2 and 4 finger gestures
+    5. Keyboard Including Fn keys
+    6. Screen brightness control
+
 # Know problems
     1.  HDMI Audio - Not Tested
     2.  Wifi card problem - hackintosh not support Intel card yet
