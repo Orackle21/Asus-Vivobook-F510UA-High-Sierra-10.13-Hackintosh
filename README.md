@@ -4,6 +4,10 @@ This is a fork of https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-
 
 ![Alt text](https://ivanov-audio.com/wp-content/uploads/2014/01/Hackintosh-Featured-Image.png)
 
+# Info
+	1. The Apple kexts AppleIntelLpssI2C.kext, AppleIntelLpssI2CController.kext, AppleHPM.kext must be deleted or the system with KP.
+	2. aDummyHDA.kext must be installed to /S/L/E for sound patching to work. This is easy to do by using the Kext Utility.app in the Tools folder.
+
 # System specification
     1.Name:           Asus Vivobook F510UA
     2.CPU:            Intel Core i5-8250U
